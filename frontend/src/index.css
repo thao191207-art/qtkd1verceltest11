@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root,
+  [data-theme="dark"] {
+    --bg-primary: #05080F;
+    --bg-secondary: #0B1220;
+    --panel-bg: rgba(255, 255, 255, 0.05);
+    --panel-border: rgba(255, 255, 255, 0.12);
+    --panel-shadow: rgba(0, 0, 0, 0.45);
+    --card-bg: rgba(255, 255, 255, 0.04);
+    --card-border: rgba(255, 255, 255, 0.10);
+    --card-hover-bg: rgba(255, 255, 255, 0.07);
+    --card-hover-border: rgba(255, 255, 255, 0.22);
+    --input-bg: rgba(11, 18, 32, 0.85);
+    --input-border: rgba(255, 255, 255, 0.14);
+    --text-primary: #F8FAFC;
+    --text-secondary: #94A3B8;
+    --text-muted: #64748B;
+    --accent-primary: #2F8BFF;
+    --accent-cyan: #38BDF8;
+    --accent-glow: rgba(47, 139, 255, 0.45);
+    --status-green: #34D399;
+    --status-green-bg: rgba(6, 78, 59, 0.6);
+    --status-green-border: rgba(52, 211, 153, 0.35);
+    --status-amber: #FBBF24;
+    --status-amber-bg: rgba(120, 53, 15, 0.6);
+    --status-amber-border: rgba(251, 191, 36, 0.35);
+    --status-red: #F87171;
+    --status-red-bg: rgba(127, 29, 29, 0.6);
+    --status-red-border: rgba(248, 113, 113, 0.35);
+    --chart-grid: rgba(255, 255, 255, 0.08);
+    --chart-axis: #94A3B8;
+    --chart-tooltip-bg: #0B1220;
+    --chart-tooltip-text: #F8FAFC;
+    --chart-tooltip-border: rgba(255, 255, 255, 0.18);
+    --orb-opacity: 0.15;
+    color: #F8FAFC;
+    background-color: #05080F;
+  }
+
+  [data-theme="light"] {
+    --bg-primary: #F4F7FB;
+    --bg-secondary: #E2E8F0;
+    --panel-bg: rgba(255, 255, 255, 0.90);
+    --panel-border: rgba(15, 23, 42, 0.12);
+    --panel-shadow: rgba(15, 23, 42, 0.08);
+    --card-bg: #FFFFFF;
+    --card-border: rgba(15, 23, 42, 0.10);
+    --card-hover-bg: #F8FAFC;
+    --card-hover-border: rgba(37, 99, 235, 0.4);
+    --input-bg: #FFFFFF;
+    --input-border: rgba(15, 23, 42, 0.20);
+    --text-primary: #0F172A;
+    --text-secondary: #334155;
+    --text-muted: #64748B;
+    --accent-primary: #1D4ED8;
+    --accent-cyan: #0284C7;
+    --accent-glow: rgba(29, 78, 216, 0.25);
+    --status-green: #047857;
+    --status-green-bg: #ECFDF5;
+    --status-green-border: rgba(5, 150, 105, 0.3);
+    --status-amber: #B45309;
+    --status-amber-bg: #FFFBEB;
+    --status-amber-border: rgba(217, 119, 6, 0.3);
+    --status-red: #B91C1C;
+    --status-red-bg: #FEF2F2;
+    --status-red-border: rgba(220, 38, 38, 0.3);
+    --chart-grid: rgba(15, 23, 42, 0.08);
+    --chart-axis: #334155;
+    --chart-tooltip-bg: #FFFFFF;
+    --chart-tooltip-text: #0F172A;
+    --chart-tooltip-border: rgba(15, 23, 42, 0.15);
+    --orb-opacity: 0.04;
+    color: #0F172A;
+    background-color: #F4F7FB;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    overflow-x: hidden;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}
+
+/* Glassmorphism theme-adaptive utility classes */
+@layer components {
+  .glass-panel {
+    background: var(--panel-bg);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--panel-border);
+    box-shadow: 0 8px 32px 0 var(--panel-shadow);
+    border-radius: 18px;
+    color: var(--text-primary);
+    transition: background-color 0.25s ease, border-color 0.25s ease;
+  }
+
+  .glass-card {
+    background: var(--card-bg);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--card-border);
+    box-shadow: 0 4px 20px 0 var(--panel-shadow);
+    border-radius: 16px;
+    color: var(--text-primary);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .glass-card:hover {
+    border-color: var(--card-hover-border);
+    background: var(--card-hover-bg);
+    box-shadow: 0 8px 30px 0 var(--accent-glow);
+  }
+
+  .glass-input {
+    background: var(--input-bg);
+    border: 1px solid var(--input-border);
+    color: var(--text-primary);
+    border-radius: 12px;
+    transition: all 0.2s ease;
+  }
+
+  .glass-input:focus {
+    outline: none;
+    border-color: var(--accent-primary);
+    box-shadow: 0 0 15px var(--accent-glow);
+  }
+
+  .active-nav-glow {
+    background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-cyan) 100%);
+    box-shadow: 0 0 25px var(--accent-glow);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #ffffff !important;
+  }
+}
+
+/* Adaptive Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--panel-border);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-primary);
+}

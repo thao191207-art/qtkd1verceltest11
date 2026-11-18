@@ -1,0 +1,355 @@
+﻿Ma_Don,Ngay_Dat,Khu_Vuc,Khach_Hang,SanPham,So_Luong,Don_Gia,Doanh_Thu,Chi_Phi,Loi_Nhuan,Ghi_Chu
+DH-10001,2026-03-13,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,65,90000.0,5850000.0,3575000.0,2275000.0,Giao tiêu chuẩn
+DH-10002,2026-03-16,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,79,450000.0,35550000.0,22120000.0,13430000.0,Giao tiêu chuẩn
+DH-10003,2026-05-11,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,26,280000.0,7280000.0,4940000.0,2340000.0,
+DH-10004,2026-05-10,Hà Nội,Khách Lẻ Lê Thị Mai,Hoa Tulip Hà Lan,68,280000.0,19040000.0,12920000.0,6120000.0,Giao gấp buổi sáng
+DH-10005,2026-01-22,Hải Phòng,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,112,350000.0,39200000.0,23520000.0,15680000.0,Giao tiêu chuẩn
+DH-10006,2026-06-19,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,96,180000.0,17280000.0,10560000.0,6720000.0,
+DH-10007,2026-02-20,Hải Phòng,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,112,150000.0,16800000.0,10640000.0,6160000.0,Giao tiêu chuẩn
+DH-10008,2026-02-20,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,11,350000.0,3850000.0,2310000.0,1540000.0,Giao gấp buổi sáng
+DH-10009,2026-03-01,Hà Nội,Khách Lẻ Lê Thị Mai,Hoa Lan Hồ Điệp Trắng,18,450000.0,8100000.0,5040000.0,3060000.0,
+DH-10010,2026-05-10,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,88,350000.0,30800000.0,18480000.0,12320000.0,Giao tiêu chuẩn
+DH-10011,2026-01-08,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,51,280000.0,14280000.0,9690000.0,4590000.0,Giao tiêu chuẩn
+DH-10012,2026-04-14,Hà Nội,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,8,350000.0,2800000.0,1680000.0,1120000.0,Giao gấp buổi sáng
+DH-10013,2026-01-04,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,58,150000.0,8700000.0,5510000.0,3190000.0,Giao tiêu chuẩn
+DH-10014,2026-06-11,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Lan Hồ Điệp Trắng,78,450000.0,35100000.0,21840000.0,13260000.0,Giao tiêu chuẩn
+DH-10015,2026-01-15,  Cần Thơ  ,Công ty CP Hoa Tươi Việt,Hoa Cẩm Tú Cầu Xanh,76,150000.0,11400000.0,7220000.0,4180000.0,
+DH-10016,2026-02-09,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,89,280000.0,24920000.0,16910000.0,8010000.0,Giao gấp buổi sáng
+DH-10017,2026-01-24,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,30,450000.0,13500000.0,8400000.0,5100000.0,Giao tiêu chuẩn
+DH-10018,2026-02-10,Hải Phòng,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,33,280000.0,9240000.0,6270000.0,2970000.0,
+DH-10019,2026-01-09,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,92,350000.0,32200000.0,19320000.0,12880000.0,Giao tiêu chuẩn
+DH-10020,2026-05-16,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,39,180000.0,7020000.0,4290000.0,2730000.0,Giao gấp buổi sáng
+DH-10021,2026-02-10,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,32,180000.0,5760000.0,3520000.0,2240000.0,
+DH-10022,2026-02-17,Cần Thơ,Resort Biển Vàng,Hoa Tulip Hà Lan,27,280000.0,7560000.0,5130000.0,2430000.0,Giao tiêu chuẩn
+DH-10023,2026-04-14,Đà Nẵng,Công ty CP Hoa Tươi Việt,Hoa Hướng Dương Đà Lạt,90,90000.0,8100000.0,4950000.0,3150000.0,Giao tiêu chuẩn
+DH-10024,2026-06-24,Cần Thơ,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,82,350000.0,28700000.0,17220000.0,11480000.0,Giao gấp buổi sáng
+DH-10025,2026-05-22,Cần Thơ,Công Ty Sự Kiện Hoàng Gia,Hoa Hướng Dương Đà Lạt,107,90000.0,9630000.0,5885000.0,3745000.0,Giao tiêu chuẩn
+DH-10026,2026-06-28,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,67,450000.0,30150000.0,18760000.0,11390000.0,Giao tiêu chuẩn
+DH-10027,2026-04-06,Cần Thơ,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,8,350000.0,2800000.0,1680000.0,1120000.0,
+DH-10028,2026-01-29,Hải Phòng,Công Ty Sự Kiện Hoàng Gia,Hoa Hướng Dương Đà Lạt,40,90000.0,3600000.0,2200000.0,1400000.0,Giao gấp buổi sáng
+DH-10029,2026-01-28,Hải Phòng,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,70,180000.0,12600000.0,7700000.0,4900000.0,Giao tiêu chuẩn
+DH-10030,2026-05-14,  Hồ Chí Minh  ,Nhà Hàng Sen Tây Hồ,Hoa Cẩm Tú Cầu Xanh,32,150000.0,4800000.0,3040000.0,1760000.0,
+DH-10031,2026-03-16,Cần Thơ,Resort Biển Vàng,Hoa Tulip Hà Lan,96,280000.0,26880000.0,18240000.0,8640000.0,Giao tiêu chuẩn
+DH-10032,2026-05-01,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,31,150000.0,4650000.0,2945000.0,1705000.0,Giao gấp buổi sáng
+DH-10033,2026-01-03,Hồ Chí Minh,Resort Biển Vàng,Hoa Tulip Hà Lan,107,280000.0,29960000.0,20330000.0,9630000.0,
+DH-10034,2026-06-14,Hà Nội,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,101,180000.0,18180000.0,11110000.0,7070000.0,Giao tiêu chuẩn
+DH-10035,2026-02-28,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,36,280000.0,10080000.0,6840000.0,3240000.0,Giao tiêu chuẩn
+DH-10036,2026-03-03,Hồ Chí Minh,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,117,350000.0,40950000.0,24570000.0,16380000.0,Giao gấp buổi sáng
+DH-10037,2026-05-10,Hà Nội,Resort Biển Vàng,Hoa Tulip Hà Lan,7,280000.0,1960000.0,1330000.0,630000.0,Giao tiêu chuẩn
+DH-10038,2026-04-23,Hà Nội,Khách Lẻ Nguyễn Văn Nam,Hoa Hồng Đỏ Ecuador,6,350000.0,2100000.0,1260000.0,840000.0,Giao tiêu chuẩn
+DH-10039,2026-05-09,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,23,150000.0,3450000.0,2185000.0,1265000.0,
+DH-10040,2026-06-09,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Hướng Dương Đà Lạt,74,90000.0,6660000.0,4070000.0,2590000.0,Giao gấp buổi sáng
+DH-10041,2026-05-03,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,21,280000.0,5880000.0,3990000.0,1890000.0,Giao tiêu chuẩn
+DH-10042,2026-05-19,Đà Nẵng,Nhà Hàng Sen Tây Hồ,Hoa Hướng Dương Đà Lạt,116,90000.0,10440000.0,6380000.0,4060000.0,
+DH-10043,2026-03-11,Đà Nẵng,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,84,350000.0,29400000.0,17640000.0,11760000.0,Giao tiêu chuẩn
+DH-10044,2026-06-13,Hà Nội,Resort Biển Vàng,Hoa Tulip Hà Lan,23,280000.0,6440000.0,4370000.0,2070000.0,Giao gấp buổi sáng
+DH-10045,2026-02-21,  Đà Nẵng  ,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,109,180000.0,19620000.0,11990000.0,7630000.0,
+DH-10046,2026-01-11,Đà Nẵng,Chuỗi Cafe Xanh,Hoa Lan Hồ Điệp Trắng,96,450000.0,43200000.0,26880000.0,16320000.0,Giao tiêu chuẩn
+DH-10047,2026-02-11,Đà Nẵng,Khách Lẻ Lê Thị Mai,Hoa Lan Hồ Điệp Trắng,103,450000.0,46350000.0,28840000.0,17510000.0,Giao tiêu chuẩn
+DH-10048,2026-03-01,Hà Nội,Khách Lẻ Nguyễn Văn Nam,Hoa Lan Hồ Điệp Trắng,117,450000.0,52650000.0,32760000.0,19890000.0,Giao gấp buổi sáng
+DH-10049,2026-02-06,Hà Nội,Khách Lẻ Trần Văn Hưng,Hoa Cẩm Tú Cầu Xanh,36,150000.0,5400000.0,3420000.0,1980000.0,Giao tiêu chuẩn
+DH-10050,2026-05-27,Hồ Chí Minh,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,52,350000.0,18200000.0,10920000.0,7280000.0,Giao tiêu chuẩn
+DH-10051,2026-04-30,Cần Thơ,Khách Lẻ Trần Văn Hưng,Hoa Tulip Hà Lan,37,280000.0,10360000.0,7030000.0,3330000.0,
+DH-10052,2026-06-13,Hồ Chí Minh,Khách Lẻ Lê Thị Mai,Hoa Cúc Mẫu Đơn Vàng,42,180000.0,7560000.0,4620000.0,2940000.0,Giao gấp buổi sáng
+DH-10053,2026-04-09,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,29,150000.0,4350000.0,2755000.0,1595000.0,Giao tiêu chuẩn
+DH-10054,2026-02-23,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,39,150000.0,5850000.0,3705000.0,2145000.0,
+DH-10055,2026-03-09,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,37,350000.0,12950000.0,7770000.0,5180000.0,Giao tiêu chuẩn
+DH-10056,2026-05-16,Hồ Chí Minh,Resort Biển Vàng,Hoa Tulip Hà Lan,11,280000.0,3080000.0,2090000.0,990000.0,Giao gấp buổi sáng
+DH-10057,2026-04-25,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,90,350000.0,31500000.0,18900000.0,12600000.0,
+DH-10058,2026-04-19,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,55,150000.0,8250000.0,5225000.0,3025000.0,Giao tiêu chuẩn
+DH-10059,2026-01-21,Cần Thơ,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,34,180000.0,6120000.0,3740000.0,2380000.0,Giao tiêu chuẩn
+DH-10060,2026-03-02,  Hồ Chí Minh  ,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,52,350000.0,18200000.0,10920000.0,7280000.0,Giao gấp buổi sáng
+DH-10061,2026-01-17,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Cúc Mẫu Đơn Vàng,48,180000.0,8640000.0,5280000.0,3360000.0,Giao tiêu chuẩn
+DH-10062,2026-01-06,Hải Phòng,Resort Biển Vàng,Hoa Hướng Dương Đà Lạt,103,90000.0,9270000.0,5665000.0,3605000.0,Giao tiêu chuẩn
+DH-10063,2026-02-15,Đà Nẵng,Khách Lẻ Lê Thị Mai,Hoa Hướng Dương Đà Lạt,57,90000.0,5130000.0,3135000.0,1995000.0,
+DH-10064,2026-06-09,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Tulip Hà Lan,91,280000.0,25480000.0,17290000.0,8190000.0,Giao gấp buổi sáng
+DH-10065,2026-01-25,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,110,180000.0,19800000.0,12100000.0,7700000.0,Giao tiêu chuẩn
+DH-10066,2026-06-23,Hải Phòng,Khách Lẻ Lê Thị Mai,Hoa Lan Hồ Điệp Trắng,28,450000.0,12600000.0,7840000.0,4760000.0,
+DH-10067,2026-05-07,Hà Nội,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,31,150000.0,4650000.0,2945000.0,1705000.0,Giao tiêu chuẩn
+DH-10068,2026-06-10,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Lan Hồ Điệp Trắng,13,450000.0,5850000.0,3640000.0,2210000.0,Giao gấp buổi sáng
+DH-10069,2026-01-26,Đà Nẵng,Resort Biển Vàng,Hoa Hướng Dương Đà Lạt,103,90000.0,9270000.0,5665000.0,3605000.0,
+DH-10070,2026-05-15,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,61,90000.0,5490000.0,3355000.0,2135000.0,Giao tiêu chuẩn
+DH-10071,2026-05-24,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Tulip Hà Lan,18,280000.0,5040000.0,3420000.0,1620000.0,Giao tiêu chuẩn
+DH-10072,2026-02-01,Cần Thơ,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,91,280000.0,25480000.0,17290000.0,8190000.0,Giao gấp buổi sáng
+DH-10073,2026-03-04,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Cúc Mẫu Đơn Vàng,66,180000.0,11880000.0,7260000.0,4620000.0,Giao tiêu chuẩn
+DH-10074,2026-02-18,Hà Nội,Chuỗi Cafe Xanh,Hoa Lan Hồ Điệp Trắng,56,450000.0,25200000.0,15680000.0,9520000.0,Giao tiêu chuẩn
+DH-10075,2026-04-11,  Hà Nội  ,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,101,150000.0,15150000.0,9595000.0,5555000.0,
+DH-10076,2026-01-05,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,107,280000.0,29960000.0,20330000.0,9630000.0,Giao gấp buổi sáng
+DH-10077,2026-04-04,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,51,90000.0,4590000.0,2805000.0,1785000.0,Giao tiêu chuẩn
+DH-10078,2026-04-24,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,110,280000.0,30800000.0,20900000.0,9900000.0,
+DH-10079,2026-01-19,Hà Nội,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,96,350000.0,33600000.0,20160000.0,13440000.0,Giao tiêu chuẩn
+DH-10080,2026-04-27,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,66,450000.0,29700000.0,18480000.0,11220000.0,Giao gấp buổi sáng
+DH-10081,2026-05-09,Cần Thơ,Nhà Hàng Sen Tây Hồ,Hoa Hồng Đỏ Ecuador,62,350000.0,21700000.0,13020000.0,8680000.0,
+DH-10082,2026-04-28,Hải Phòng,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,52,450000.0,23400000.0,14560000.0,8840000.0,Giao tiêu chuẩn
+DH-10083,2026-01-16,Hà Nội,Resort Biển Vàng,Hoa Hướng Dương Đà Lạt,65,90000.0,5850000.0,3575000.0,2275000.0,Giao tiêu chuẩn
+DH-10084,2026-03-17,Đà Nẵng,Nhà Hàng Sen Tây Hồ,Hoa Hướng Dương Đà Lạt,30,90000.0,2700000.0,1650000.0,1050000.0,Giao gấp buổi sáng
+DH-10085,2026-01-29,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,82,90000.0,7380000.0,4510000.0,2870000.0,Giao tiêu chuẩn
+DH-10086,2026-05-24,Hà Nội,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,94,350000.0,32900000.0,19740000.0,13160000.0,Giao tiêu chuẩn
+DH-10087,2026-02-02,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Hướng Dương Đà Lạt,98,90000.0,8820000.0,5390000.0,3430000.0,
+DH-10088,2026-03-10,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Lan Hồ Điệp Trắng,104,450000.0,46800000.0,29120000.0,17680000.0,Giao gấp buổi sáng
+DH-10089,2026-04-06,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Lan Hồ Điệp Trắng,5,450000.0,2250000.0,1400000.0,850000.0,Giao tiêu chuẩn
+DH-10090,2026-01-24,  Hồ Chí Minh  ,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,84,90000.0,7560000.0,4620000.0,2940000.0,
+DH-10091,2026-06-09,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Hồng Đỏ Ecuador,95,350000.0,33250000.0,19950000.0,13300000.0,Giao tiêu chuẩn
+DH-10092,2026-05-04,Cần Thơ,Resort Biển Vàng,Hoa Tulip Hà Lan,37,280000.0,10360000.0,7030000.0,3330000.0,Giao gấp buổi sáng
+DH-10093,2026-01-12,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,71,180000.0,12780000.0,7810000.0,4970000.0,
+DH-10094,2026-01-29,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,17,450000.0,7650000.0,4760000.0,2890000.0,Giao tiêu chuẩn
+DH-10095,2026-02-04,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,91,150000.0,13650000.0,8645000.0,5005000.0,Giao tiêu chuẩn
+DH-10096,2026-03-31,Hà Nội,Chuỗi Cafe Xanh,Hoa Hướng Dương Đà Lạt,38,90000.0,3420000.0,2090000.0,1330000.0,Giao gấp buổi sáng
+DH-10097,2026-04-24,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Tulip Hà Lan,113,280000.0,31640000.0,21470000.0,10170000.0,Giao tiêu chuẩn
+DH-10098,2026-06-13,Hải Phòng,Resort Biển Vàng,Hoa Tulip Hà Lan,14,280000.0,3920000.0,2660000.0,1260000.0,Giao tiêu chuẩn
+DH-10099,2026-02-05,Hồ Chí Minh,Khách Lẻ Nguyễn Văn Nam,Hoa Cúc Mẫu Đơn Vàng,86,180000.0,15480000.0,9460000.0,6020000.0,
+DH-10100,2026-01-12,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,117,150000.0,17550000.0,11115000.0,6435000.0,Giao gấp buổi sáng
+DH-10101,2026-01-30,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,21,350000.0,7350000.0,4410000.0,2940000.0,Giao tiêu chuẩn
+DH-10102,2026-03-27,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Tulip Hà Lan,17,280000.0,4760000.0,3230000.0,1530000.0,
+DH-10103,2026-05-27,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,80,350000.0,28000000.0,16800000.0,11200000.0,Giao tiêu chuẩn
+DH-10104,2026-05-08,Hồ Chí Minh,Khách Lẻ Lê Thị Mai,Hoa Tulip Hà Lan,56,280000.0,15680000.0,10640000.0,5040000.0,Giao gấp buổi sáng
+DH-10105,2026-05-20,  Hồ Chí Minh  ,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,29,90000.0,2610000.0,1595000.0,1015000.0,
+DH-10106,2026-05-31,Hồ Chí Minh,Công ty CP Hoa Tươi Việt,Hoa Hướng Dương Đà Lạt,20,90000.0,1800000.0,1100000.0,700000.0,Giao tiêu chuẩn
+DH-10107,2026-06-16,Đà Nẵng,Khách Lẻ Lê Thị Mai,Hoa Hướng Dương Đà Lạt,18,90000.0,1620000.0,990000.0,630000.0,Giao tiêu chuẩn
+DH-10108,2026-03-16,Hồ Chí Minh,Công ty CP Hoa Tươi Việt,Hoa Hướng Dương Đà Lạt,22,90000.0,1980000.0,1210000.0,770000.0,Giao gấp buổi sáng
+DH-10109,2026-05-25,Hải Phòng,Công ty CP Hoa Tươi Việt,Hoa Hồng Đỏ Ecuador,106,350000.0,37100000.0,22260000.0,14840000.0,Giao tiêu chuẩn
+DH-10110,2026-05-17,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,54,90000.0,4860000.0,2970000.0,1890000.0,Giao tiêu chuẩn
+DH-10111,2026-06-14,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,42,450000.0,18900000.0,11760000.0,7140000.0,
+DH-10112,2026-05-25,Hải Phòng,Resort Biển Vàng,Hoa Hướng Dương Đà Lạt,75,90000.0,6750000.0,4125000.0,2625000.0,Giao gấp buổi sáng
+DH-10113,2026-06-08,Hải Phòng,Resort Biển Vàng,Hoa Tulip Hà Lan,23,280000.0,6440000.0,4370000.0,2070000.0,Giao tiêu chuẩn
+DH-10114,2026-03-31,Đà Nẵng,Công ty CP Hoa Tươi Việt,Hoa Cẩm Tú Cầu Xanh,23,150000.0,3450000.0,2185000.0,1265000.0,
+DH-10115,2026-05-06,Hà Nội,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,62,180000.0,11160000.0,6820000.0,4340000.0,Giao tiêu chuẩn
+DH-10116,2026-06-16,Đà Nẵng,Chuỗi Cafe Xanh,Hoa Hướng Dương Đà Lạt,5,90000.0,450000.0,275000.0,175000.0,Giao gấp buổi sáng
+DH-10117,2026-04-23,Đà Nẵng,Khách Lẻ Nguyễn Văn Nam,Hoa Tulip Hà Lan,29,280000.0,8120000.0,5510000.0,2610000.0,
+DH-10118,2026-02-27,Cần Thơ,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,48,150000.0,7200000.0,4560000.0,2640000.0,Giao tiêu chuẩn
+DH-10119,2026-05-29,Hải Phòng,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,84,90000.0,7560000.0,4620000.0,2940000.0,Giao tiêu chuẩn
+DH-10120,2026-06-13,  Hồ Chí Minh  ,Khách Lẻ Trần Văn Hưng,Hoa Cúc Mẫu Đơn Vàng,103,180000.0,18540000.0,11330000.0,7210000.0,Giao gấp buổi sáng
+DH-10121,2026-02-18,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,18,350000.0,6300000.0,3780000.0,2520000.0,Giao tiêu chuẩn
+DH-10122,2026-04-28,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Hồng Đỏ Ecuador,7,350000.0,2450000.0,1470000.0,980000.0,Giao tiêu chuẩn
+DH-10123,2026-03-15,Hải Phòng,Khách Lẻ Trần Văn Hưng,Hoa Hồng Đỏ Ecuador,100,350000.0,35000000.0,21000000.0,14000000.0,
+DH-10124,2026-06-05,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,12,150000.0,1800000.0,1140000.0,660000.0,Giao gấp buổi sáng
+DH-10125,2026-03-01,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,54,280000.0,15120000.0,10260000.0,4860000.0,Giao tiêu chuẩn
+DH-10126,2026-06-04,Hà Nội,Khách Lẻ Nguyễn Văn Nam,Hoa Hướng Dương Đà Lạt,67,90000.0,6030000.0,3685000.0,2345000.0,
+DH-10127,2026-06-06,Hồ Chí Minh,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,17,350000.0,5950000.0,3570000.0,2380000.0,Giao tiêu chuẩn
+DH-10128,2026-04-25,Hải Phòng,Khách Lẻ Lê Thị Mai,Hoa Hướng Dương Đà Lạt,73,90000.0,6570000.0,4015000.0,2555000.0,Giao gấp buổi sáng
+DH-10129,2026-01-30,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,118,450000.0,53100000.0,33040000.0,20060000.0,
+DH-10130,2026-02-02,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,69,90000.0,6210000.0,3795000.0,2415000.0,Giao tiêu chuẩn
+DH-10131,2026-01-26,Hồ Chí Minh,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,67,350000.0,23450000.0,14070000.0,9380000.0,Giao tiêu chuẩn
+DH-10132,2026-06-10,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,102,180000.0,18360000.0,11220000.0,7140000.0,Giao gấp buổi sáng
+DH-10133,2026-02-24,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,10,350000.0,3500000.0,2100000.0,1400000.0,Giao tiêu chuẩn
+DH-10134,2026-04-12,Đà Nẵng,Khách Lẻ Nguyễn Văn Nam,Hoa Hướng Dương Đà Lạt,7,90000.0,630000.0,385000.0,245000.0,Giao tiêu chuẩn
+DH-10135,2026-03-24,  Hồ Chí Minh  ,Công ty CP Hoa Tươi Việt,Hoa Hướng Dương Đà Lạt,21,90000.0,1890000.0,1155000.0,735000.0,
+DH-10136,2026-02-20,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,49,350000.0,17150000.0,10290000.0,6860000.0,Giao gấp buổi sáng
+DH-10137,2026-02-01,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Cẩm Tú Cầu Xanh,38,150000.0,5700000.0,3610000.0,2090000.0,Giao tiêu chuẩn
+DH-10138,2026-04-28,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,7,450000.0,3150000.0,1960000.0,1190000.0,
+DH-10139,2026-05-13,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Tulip Hà Lan,98,280000.0,27440000.0,18620000.0,8820000.0,Giao tiêu chuẩn
+DH-10140,2026-02-16,Cần Thơ,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,27,350000.0,9450000.0,5670000.0,3780000.0,Giao gấp buổi sáng
+DH-10141,2026-03-16,Đà Nẵng,Nhà Hàng Sen Tây Hồ,Hoa Hướng Dương Đà Lạt,55,90000.0,4950000.0,3025000.0,1925000.0,
+DH-10142,2026-02-19,Hải Phòng,Khách Lẻ Nguyễn Văn Nam,Hoa Tulip Hà Lan,102,280000.0,28560000.0,19380000.0,9180000.0,Giao tiêu chuẩn
+DH-10143,2026-02-21,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,42,180000.0,7560000.0,4620000.0,2940000.0,Giao tiêu chuẩn
+DH-10144,2026-04-16,Hồ Chí Minh,Resort Biển Vàng,Hoa Tulip Hà Lan,55,280000.0,15400000.0,10450000.0,4950000.0,Giao gấp buổi sáng
+DH-10145,2026-05-25,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,78,90000.0,7020000.0,4290000.0,2730000.0,Giao tiêu chuẩn
+DH-10146,2026-02-03,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,10,280000.0,2800000.0,1900000.0,900000.0,Giao tiêu chuẩn
+DH-10147,2026-02-12,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,116,90000.0,10440000.0,6380000.0,4060000.0,
+DH-10148,2026-03-21,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,99,350000.0,34650000.0,20790000.0,13860000.0,Giao gấp buổi sáng
+DH-10149,2026-01-25,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,71,280000.0,19880000.0,13490000.0,6390000.0,Giao tiêu chuẩn
+DH-10150,2026-06-27,  Cần Thơ  ,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,65,180000.0,11700000.0,7150000.0,4550000.0,
+DH-10151,2026-04-02,Hà Nội,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,46,180000.0,8280000.0,5060000.0,3220000.0,Giao tiêu chuẩn
+DH-10152,2026-05-13,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Hướng Dương Đà Lạt,109,90000.0,9810000.0,5995000.0,3815000.0,Giao gấp buổi sáng
+DH-10153,2026-03-19,Hồ Chí Minh,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,94,150000.0,14100000.0,8930000.0,5170000.0,
+DH-10154,2026-02-16,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,90,350000.0,31500000.0,18900000.0,12600000.0,Giao tiêu chuẩn
+DH-10155,2026-02-17,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,65,150000.0,9750000.0,6175000.0,3575000.0,Giao tiêu chuẩn
+DH-10156,2026-04-23,Hà Nội,Chuỗi Cafe Xanh,Hoa Tulip Hà Lan,103,280000.0,28840000.0,19570000.0,9270000.0,Giao gấp buổi sáng
+DH-10157,2026-01-28,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,91,150000.0,13650000.0,8645000.0,5005000.0,Giao tiêu chuẩn
+DH-10158,2026-01-14,Hồ Chí Minh,Công ty CP Hoa Tươi Việt,Hoa Lan Hồ Điệp Trắng,63,450000.0,28350000.0,17640000.0,10710000.0,Giao tiêu chuẩn
+DH-10159,2026-04-17,Hà Nội,Khách Lẻ Trần Văn Hưng,Hoa Cúc Mẫu Đơn Vàng,115,180000.0,20700000.0,12650000.0,8050000.0,
+DH-10160,2026-04-25,Hà Nội,Resort Biển Vàng,Hoa Lan Hồ Điệp Trắng,19,450000.0,8550000.0,5320000.0,3230000.0,Giao gấp buổi sáng
+DH-10161,2026-02-08,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,61,90000.0,5490000.0,3355000.0,2135000.0,Giao tiêu chuẩn
+DH-10162,2026-02-13,Cần Thơ,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,29,150000.0,4350000.0,2755000.0,1595000.0,
+DH-10163,2026-05-18,Cần Thơ,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,71,280000.0,19880000.0,13490000.0,6390000.0,Giao tiêu chuẩn
+DH-10164,2026-04-21,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,90,450000.0,40500000.0,25200000.0,15300000.0,Giao gấp buổi sáng
+DH-10165,2026-02-11,  Hồ Chí Minh  ,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,45,350000.0,15750000.0,9450000.0,6300000.0,
+DH-10166,2026-02-28,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Tulip Hà Lan,113,280000.0,31640000.0,21470000.0,10170000.0,Giao tiêu chuẩn
+DH-10167,2026-05-30,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,25,350000.0,8750000.0,5250000.0,3500000.0,Giao tiêu chuẩn
+DH-10168,2026-03-03,Hà Nội,Chuỗi Cafe Xanh,Hoa Tulip Hà Lan,98,280000.0,27440000.0,18620000.0,8820000.0,Giao gấp buổi sáng
+DH-10169,2026-01-31,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,44,350000.0,15400000.0,9240000.0,6160000.0,Giao tiêu chuẩn
+DH-10170,2026-03-16,Đà Nẵng,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,8,150000.0,1200000.0,760000.0,440000.0,Giao tiêu chuẩn
+DH-10171,2026-06-28,Hà Nội,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,66,150000.0,9900000.0,6270000.0,3630000.0,
+DH-10172,2026-06-28,Hải Phòng,Công Ty Sự Kiện Hoàng Gia,Hoa Cúc Mẫu Đơn Vàng,49,180000.0,8820000.0,5390000.0,3430000.0,Giao gấp buổi sáng
+DH-10173,2026-03-09,Đà Nẵng,Khách Lẻ Nguyễn Văn Nam,Hoa Cẩm Tú Cầu Xanh,23,150000.0,3450000.0,2185000.0,1265000.0,Giao tiêu chuẩn
+DH-10174,2026-02-16,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,5,280000.0,1400000.0,950000.0,450000.0,
+DH-10175,2026-05-19,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,104,150000.0,15600000.0,9880000.0,5720000.0,Giao tiêu chuẩn
+DH-10176,2026-06-27,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,14,180000.0,2520000.0,1540000.0,980000.0,Giao gấp buổi sáng
+DH-10177,2026-01-13,Hồ Chí Minh,Khách Lẻ Nguyễn Văn Nam,Hoa Lan Hồ Điệp Trắng,44,450000.0,19800000.0,12320000.0,7480000.0,
+DH-10178,2026-03-14,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,21,350000.0,7350000.0,4410000.0,2940000.0,Giao tiêu chuẩn
+DH-10179,2026-04-04,Hà Nội,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,99,150000.0,14850000.0,9405000.0,5445000.0,Giao tiêu chuẩn
+DH-10180,2026-06-27,  Hải Phòng  ,Công ty CP Hoa Tươi Việt,Hoa Cẩm Tú Cầu Xanh,82,150000.0,12300000.0,7790000.0,4510000.0,Giao gấp buổi sáng
+DH-10181,2026-03-17,Hải Phòng,Khách Lẻ Lê Thị Mai,Hoa Cúc Mẫu Đơn Vàng,103,180000.0,18540000.0,11330000.0,7210000.0,Giao tiêu chuẩn
+DH-10182,2026-04-03,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,76,150000.0,11400000.0,7220000.0,4180000.0,Giao tiêu chuẩn
+DH-10183,2026-01-30,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,39,90000.0,3510000.0,2145000.0,1365000.0,
+DH-10184,2026-03-19,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,30,90000.0,2700000.0,1650000.0,1050000.0,Giao gấp buổi sáng
+DH-10185,2026-03-30,Hải Phòng,Chuỗi Cafe Xanh,Hoa Hồng Đỏ Ecuador,22,350000.0,7700000.0,4620000.0,3080000.0,Giao tiêu chuẩn
+DH-10186,2026-05-05,Cần Thơ,Khách Lẻ Trần Văn Hưng,Hoa Cẩm Tú Cầu Xanh,42,150000.0,6300000.0,3990000.0,2310000.0,
+DH-10187,2026-02-22,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,108,350000.0,37800000.0,22680000.0,15120000.0,Giao tiêu chuẩn
+DH-10188,2026-03-08,Hà Nội,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,11,180000.0,1980000.0,1210000.0,770000.0,Giao gấp buổi sáng
+DH-10189,2026-01-15,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,115,450000.0,51750000.0,32200000.0,19550000.0,
+DH-10190,2026-06-04,Hồ Chí Minh,Công ty CP Hoa Tươi Việt,Hoa Tulip Hà Lan,40,280000.0,11200000.0,7600000.0,3600000.0,Giao tiêu chuẩn
+DH-10191,2026-06-04,Hải Phòng,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,59,350000.0,20650000.0,12390000.0,8260000.0,Giao tiêu chuẩn
+DH-10192,2026-01-10,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,9,280000.0,2520000.0,1710000.0,810000.0,Giao gấp buổi sáng
+DH-10193,2026-05-21,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,35,350000.0,12250000.0,7350000.0,4900000.0,Giao tiêu chuẩn
+DH-10194,2026-01-15,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,33,90000.0,2970000.0,1815000.0,1155000.0,Giao tiêu chuẩn
+DH-10195,2026-03-17,  Hồ Chí Minh  ,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,49,90000.0,4410000.0,2695000.0,1715000.0,
+DH-10196,2026-02-05,Đà Nẵng,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,30,180000.0,5400000.0,3300000.0,2100000.0,Giao gấp buổi sáng
+DH-10197,2026-03-15,Hà Nội,Chuỗi Cafe Xanh,Hoa Hướng Dương Đà Lạt,108,90000.0,9720000.0,5940000.0,3780000.0,Giao tiêu chuẩn
+DH-10198,2026-05-20,Hồ Chí Minh,Khách Lẻ Lê Thị Mai,Hoa Lan Hồ Điệp Trắng,94,450000.0,42300000.0,26320000.0,15980000.0,
+DH-10199,2026-04-21,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,108,150000.0,16200000.0,10260000.0,5940000.0,Giao tiêu chuẩn
+DH-10200,2026-03-09,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,9,280000.0,2520000.0,1710000.0,810000.0,Giao gấp buổi sáng
+DH-10201,2026-01-31,Hải Phòng,Công ty CP Hoa Tươi Việt,Hoa Lan Hồ Điệp Trắng,13,450000.0,5850000.0,3640000.0,2210000.0,
+DH-10202,2026-02-10,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,90,90000.0,8100000.0,4950000.0,3150000.0,Giao tiêu chuẩn
+DH-10203,2026-05-29,Hải Phòng,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,94,350000.0,32900000.0,19740000.0,13160000.0,Giao tiêu chuẩn
+DH-10204,2026-01-01,Cần Thơ,Chuỗi Cafe Xanh,Hoa Cẩm Tú Cầu Xanh,67,150000.0,10050000.0,6365000.0,3685000.0,Giao gấp buổi sáng
+DH-10205,2026-05-29,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cúc Mẫu Đơn Vàng,51,180000.0,9180000.0,5610000.0,3570000.0,Giao tiêu chuẩn
+DH-10206,2026-02-26,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,30,350000.0,10500000.0,6300000.0,4200000.0,Giao tiêu chuẩn
+DH-10207,2026-03-16,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,42,280000.0,11760000.0,7980000.0,3780000.0,
+DH-10208,2026-04-01,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,21,450000.0,9450000.0,5880000.0,3570000.0,Giao gấp buổi sáng
+DH-10209,2026-06-28,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Cúc Mẫu Đơn Vàng,58,180000.0,10440000.0,6380000.0,4060000.0,Giao tiêu chuẩn
+DH-10210,2026-03-29,  Hà Nội  ,Resort Biển Vàng,Hoa Tulip Hà Lan,37,280000.0,10360000.0,7030000.0,3330000.0,
+DH-10211,2026-06-05,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,118,180000.0,21240000.0,12980000.0,8260000.0,Giao tiêu chuẩn
+DH-10212,2026-06-26,Đà Nẵng,Khách Lẻ Nguyễn Văn Nam,Hoa Hồng Đỏ Ecuador,24,350000.0,8400000.0,5040000.0,3360000.0,Giao gấp buổi sáng
+DH-10213,2026-04-14,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,53,280000.0,14840000.0,10070000.0,4770000.0,
+DH-10214,2026-06-28,Hà Nội,Resort Biển Vàng,Hoa Hướng Dương Đà Lạt,60,90000.0,5400000.0,3300000.0,2100000.0,Giao tiêu chuẩn
+DH-10215,2026-06-22,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,97,150000.0,14550000.0,9215000.0,5335000.0,Giao tiêu chuẩn
+DH-10216,2026-03-19,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,119,180000.0,21420000.0,13090000.0,8330000.0,Giao gấp buổi sáng
+DH-10217,2026-04-23,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,118,450000.0,53100000.0,33040000.0,20060000.0,Giao tiêu chuẩn
+DH-10218,2026-05-09,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,12,180000.0,2160000.0,1320000.0,840000.0,Giao tiêu chuẩn
+DH-10219,2026-04-20,Cần Thơ,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,38,180000.0,6840000.0,4180000.0,2660000.0,
+DH-10220,2026-05-15,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Tulip Hà Lan,97,280000.0,27160000.0,18430000.0,8730000.0,Giao gấp buổi sáng
+DH-10221,2026-03-13,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,58,350000.0,20300000.0,12180000.0,8120000.0,Giao tiêu chuẩn
+DH-10222,2026-04-07,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,96,90000.0,8640000.0,5280000.0,3360000.0,
+DH-10223,2026-03-29,Hà Nội,Chuỗi Cafe Xanh,Hoa Lan Hồ Điệp Trắng,82,450000.0,36900000.0,22960000.0,13940000.0,Giao tiêu chuẩn
+DH-10224,2026-06-14,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Cẩm Tú Cầu Xanh,58,150000.0,8700000.0,5510000.0,3190000.0,Giao gấp buổi sáng
+DH-10225,2026-01-07,  Hà Nội  ,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,37,450000.0,16650000.0,10360000.0,6290000.0,
+DH-10226,2026-05-27,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,40,180000.0,7200000.0,4400000.0,2800000.0,Giao tiêu chuẩn
+DH-10227,2026-02-16,Hồ Chí Minh,Khách Lẻ Trần Văn Hưng,Hoa Lan Hồ Điệp Trắng,73,450000.0,32850000.0,20440000.0,12410000.0,Giao tiêu chuẩn
+DH-10228,2026-04-29,Hà Nội,Chuỗi Cafe Xanh,Hoa Lan Hồ Điệp Trắng,16,450000.0,7200000.0,4480000.0,2720000.0,Giao gấp buổi sáng
+DH-10229,2026-05-17,Cần Thơ,Resort Biển Vàng,Hoa Hướng Dương Đà Lạt,102,90000.0,9180000.0,5610000.0,3570000.0,Giao tiêu chuẩn
+DH-10230,2026-03-27,Cần Thơ,Khách Lẻ Lê Thị Mai,Hoa Cúc Mẫu Đơn Vàng,112,180000.0,20160000.0,12320000.0,7840000.0,Giao tiêu chuẩn
+DH-10231,2026-02-28,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,114,450000.0,51300000.0,31920000.0,19380000.0,
+DH-10232,2026-01-14,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,13,350000.0,4550000.0,2730000.0,1820000.0,Giao gấp buổi sáng
+DH-10233,2026-01-22,Hồ Chí Minh,Resort Biển Vàng,Hoa Hướng Dương Đà Lạt,111,90000.0,9990000.0,6105000.0,3885000.0,Giao tiêu chuẩn
+DH-10234,2026-04-19,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,102,450000.0,45900000.0,28560000.0,17340000.0,
+DH-10235,2026-05-08,Hà Nội,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,89,180000.0,16020000.0,9790000.0,6230000.0,Giao tiêu chuẩn
+DH-10236,2026-01-17,Cần Thơ,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,41,350000.0,14350000.0,8610000.0,5740000.0,Giao gấp buổi sáng
+DH-10237,2026-04-27,Đà Nẵng,Công ty CP Hoa Tươi Việt,Hoa Lan Hồ Điệp Trắng,110,450000.0,49500000.0,30800000.0,18700000.0,
+DH-10238,2026-05-14,Hà Nội,Khách Lẻ Trần Văn Hưng,Hoa Cúc Mẫu Đơn Vàng,95,180000.0,17100000.0,10450000.0,6650000.0,Giao tiêu chuẩn
+DH-10239,2026-02-22,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Tulip Hà Lan,75,280000.0,21000000.0,14250000.0,6750000.0,Giao tiêu chuẩn
+DH-10240,2026-05-02,  Hồ Chí Minh  ,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,50,350000.0,17500000.0,10500000.0,7000000.0,Giao gấp buổi sáng
+DH-10241,2026-02-20,Hà Nội,Khách Lẻ Lê Thị Mai,Hoa Tulip Hà Lan,57,280000.0,15960000.0,10830000.0,5130000.0,Giao tiêu chuẩn
+DH-10242,2026-01-11,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,44,450000.0,19800000.0,12320000.0,7480000.0,Giao tiêu chuẩn
+DH-10243,2026-02-08,Hồ Chí Minh,Công ty CP Hoa Tươi Việt,Hoa Tulip Hà Lan,108,280000.0,30240000.0,20520000.0,9720000.0,
+DH-10244,2026-06-01,Hồ Chí Minh,Resort Biển Vàng,Hoa Lan Hồ Điệp Trắng,26,450000.0,11700000.0,7280000.0,4420000.0,Giao gấp buổi sáng
+DH-10245,2026-05-28,Đà Nẵng,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,87,350000.0,30450000.0,18270000.0,12180000.0,Giao tiêu chuẩn
+DH-10246,2026-04-19,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,111,180000.0,19980000.0,12210000.0,7770000.0,
+DH-10247,2026-03-14,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,77,450000.0,34650000.0,21560000.0,13090000.0,Giao tiêu chuẩn
+DH-10248,2026-06-20,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,108,350000.0,37800000.0,22680000.0,15120000.0,Giao gấp buổi sáng
+DH-10249,2026-04-18,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,48,180000.0,8640000.0,5280000.0,3360000.0,
+DH-10250,2026-01-19,Hải Phòng,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,105,150000.0,15750000.0,9975000.0,5775000.0,Giao tiêu chuẩn
+DH-10251,2026-01-17,Hà Nội,Khách Lẻ Nguyễn Văn Nam,Hoa Cúc Mẫu Đơn Vàng,78,180000.0,14040000.0,8580000.0,5460000.0,Giao tiêu chuẩn
+DH-10252,2026-03-03,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,84,350000.0,29400000.0,17640000.0,11760000.0,Giao gấp buổi sáng
+DH-10253,2026-04-28,Cần Thơ,Công ty CP Hoa Tươi Việt,Hoa Hướng Dương Đà Lạt,84,90000.0,7560000.0,4620000.0,2940000.0,Giao tiêu chuẩn
+DH-10254,2026-01-12,Cần Thơ,Khách Lẻ Trần Văn Hưng,Hoa Hồng Đỏ Ecuador,19,350000.0,6650000.0,3990000.0,2660000.0,Giao tiêu chuẩn
+DH-10255,2026-02-16,  Đà Nẵng  ,Khách Lẻ Lê Thị Mai,Hoa Hồng Đỏ Ecuador,36,350000.0,12600000.0,7560000.0,5040000.0,
+DH-10256,2026-03-27,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,11,350000.0,3850000.0,2310000.0,1540000.0,Giao gấp buổi sáng
+DH-10257,2026-04-25,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Hướng Dương Đà Lạt,52,90000.0,4680000.0,2860000.0,1820000.0,Giao tiêu chuẩn
+DH-10258,2026-03-23,Hà Nội,Khách Lẻ Lê Thị Mai,Hoa Cúc Mẫu Đơn Vàng,99,180000.0,17820000.0,10890000.0,6930000.0,
+DH-10259,2026-04-13,Cần Thơ,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,21,180000.0,3780000.0,2310000.0,1470000.0,Giao tiêu chuẩn
+DH-10260,2026-02-14,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Cúc Mẫu Đơn Vàng,102,180000.0,18360000.0,11220000.0,7140000.0,Giao gấp buổi sáng
+DH-10261,2026-04-18,Cần Thơ,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,43,180000.0,7740000.0,4730000.0,3010000.0,
+DH-10262,2026-06-02,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,17,350000.0,5950000.0,3570000.0,2380000.0,Giao tiêu chuẩn
+DH-10263,2026-05-06,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Hướng Dương Đà Lạt,70,90000.0,6300000.0,3850000.0,2450000.0,Giao tiêu chuẩn
+DH-10264,2026-01-13,Hà Nội,Khách Lẻ Nguyễn Văn Nam,Hoa Lan Hồ Điệp Trắng,17,450000.0,7650000.0,4760000.0,2890000.0,Giao gấp buổi sáng
+DH-10265,2026-02-15,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,33,180000.0,5940000.0,3630000.0,2310000.0,Giao tiêu chuẩn
+DH-10266,2026-01-16,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,60,90000.0,5400000.0,3300000.0,2100000.0,Giao tiêu chuẩn
+DH-10267,2026-06-02,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Hồng Đỏ Ecuador,107,350000.0,37450000.0,22470000.0,14980000.0,
+DH-10268,2026-01-03,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,49,350000.0,17150000.0,10290000.0,6860000.0,Giao gấp buổi sáng
+DH-10269,2026-05-26,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Cẩm Tú Cầu Xanh,66,150000.0,9900000.0,6270000.0,3630000.0,Giao tiêu chuẩn
+DH-10270,2026-03-14,  Hồ Chí Minh  ,Khách Lẻ Trần Văn Hưng,Hoa Hồng Đỏ Ecuador,19,350000.0,6650000.0,3990000.0,2660000.0,
+DH-10271,2026-02-06,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,65,280000.0,18200000.0,12350000.0,5850000.0,Giao tiêu chuẩn
+DH-10272,2026-03-04,Hà Nội,Resort Biển Vàng,Hoa Tulip Hà Lan,50,280000.0,14000000.0,9500000.0,4500000.0,Giao gấp buổi sáng
+DH-10273,2026-06-02,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Cẩm Tú Cầu Xanh,75,150000.0,11250000.0,7125000.0,4125000.0,
+DH-10274,2026-04-03,Hải Phòng,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,67,180000.0,12060000.0,7370000.0,4690000.0,Giao tiêu chuẩn
+DH-10275,2026-03-15,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cúc Mẫu Đơn Vàng,111,180000.0,19980000.0,12210000.0,7770000.0,Giao tiêu chuẩn
+DH-10276,2026-01-03,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,10,450000.0,4500000.0,2800000.0,1700000.0,Giao gấp buổi sáng
+DH-10277,2026-06-26,Cần Thơ,Khách Lẻ Nguyễn Văn Nam,Hoa Cẩm Tú Cầu Xanh,13,150000.0,1950000.0,1235000.0,715000.0,Giao tiêu chuẩn
+DH-10278,2026-05-03,Hải Phòng,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,110,450000.0,49500000.0,30800000.0,18700000.0,Giao tiêu chuẩn
+DH-10279,2026-01-03,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Lan Hồ Điệp Trắng,36,450000.0,16200000.0,10080000.0,6120000.0,
+DH-10280,2026-03-30,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,77,90000.0,6930000.0,4235000.0,2695000.0,Giao gấp buổi sáng
+DH-10281,2026-04-15,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,60,90000.0,5400000.0,3300000.0,2100000.0,Giao tiêu chuẩn
+DH-10282,2026-06-02,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,102,280000.0,28560000.0,19380000.0,9180000.0,
+DH-10283,2026-01-25,Cần Thơ,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,9,350000.0,3150000.0,1890000.0,1260000.0,Giao tiêu chuẩn
+DH-10284,2026-02-07,Đà Nẵng,Resort Biển Vàng,Hoa Lan Hồ Điệp Trắng,76,450000.0,34200000.0,21280000.0,12920000.0,Giao gấp buổi sáng
+DH-10285,2026-02-06,  Đà Nẵng  ,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,64,450000.0,28800000.0,17920000.0,10880000.0,
+DH-10286,2026-03-22,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,118,280000.0,33040000.0,22420000.0,10620000.0,Giao tiêu chuẩn
+DH-10287,2026-03-08,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,60,150000.0,9000000.0,5700000.0,3300000.0,Giao tiêu chuẩn
+DH-10288,2026-02-02,Đà Nẵng,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,10,180000.0,1800000.0,1100000.0,700000.0,Giao gấp buổi sáng
+DH-10289,2026-02-28,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Tulip Hà Lan,52,280000.0,14560000.0,9880000.0,4680000.0,Giao tiêu chuẩn
+DH-10290,2026-06-30,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,46,180000.0,8280000.0,5060000.0,3220000.0,Giao tiêu chuẩn
+DH-10291,2026-01-07,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Cúc Mẫu Đơn Vàng,9,180000.0,1620000.0,990000.0,630000.0,
+DH-10292,2026-01-31,Cần Thơ,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,27,450000.0,12150000.0,7560000.0,4590000.0,Giao gấp buổi sáng
+DH-10293,2026-02-08,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,35,180000.0,6300000.0,3850000.0,2450000.0,Giao tiêu chuẩn
+DH-10294,2026-01-12,Hà Nội,Chuỗi Cafe Xanh,Hoa Lan Hồ Điệp Trắng,43,450000.0,19350000.0,12040000.0,7310000.0,
+DH-10295,2026-04-23,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Hướng Dương Đà Lạt,109,90000.0,9810000.0,5995000.0,3815000.0,Giao tiêu chuẩn
+DH-10296,2026-03-29,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Lan Hồ Điệp Trắng,113,450000.0,50850000.0,31640000.0,19210000.0,Giao gấp buổi sáng
+DH-10297,2026-03-15,Đà Nẵng,Resort Biển Vàng,Hoa Cẩm Tú Cầu Xanh,109,150000.0,16350000.0,10355000.0,5995000.0,
+DH-10298,2026-02-06,Hải Phòng,Nhà Hàng Sen Tây Hồ,Hoa Tulip Hà Lan,97,280000.0,27160000.0,18430000.0,8730000.0,Giao tiêu chuẩn
+DH-10299,2026-03-09,Đà Nẵng,Nhà Hàng Sen Tây Hồ,Hoa Tulip Hà Lan,95,280000.0,26600000.0,18050000.0,8550000.0,Giao tiêu chuẩn
+DH-10300,2026-05-18,  Hà Nội  ,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,69,280000.0,19320000.0,13110000.0,6210000.0,Giao gấp buổi sáng
+DH-10301,2026-01-14,Hà Nội,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,68,180000.0,12240000.0,7480000.0,4760000.0,Giao tiêu chuẩn
+DH-10302,2026-06-29,Đà Nẵng,Công ty CP Hoa Tươi Việt,Hoa Tulip Hà Lan,80,280000.0,22400000.0,15200000.0,7200000.0,Giao tiêu chuẩn
+DH-10303,2026-04-21,Hà Nội,Chuỗi Cafe Xanh,Hoa Cúc Mẫu Đơn Vàng,83,180000.0,14940000.0,9130000.0,5810000.0,
+DH-10304,2026-01-26,Cần Thơ,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,102,180000.0,18360000.0,11220000.0,7140000.0,Giao gấp buổi sáng
+DH-10305,2026-04-09,Hà Nội,Khách Lẻ Lê Thị Mai,Hoa Hướng Dương Đà Lạt,17,90000.0,1530000.0,935000.0,595000.0,Giao tiêu chuẩn
+DH-10306,2026-04-26,Cần Thơ,Nhà Hàng Sen Tây Hồ,Hoa Hướng Dương Đà Lạt,36,90000.0,3240000.0,1980000.0,1260000.0,
+DH-10307,2026-01-27,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,71,150000.0,10650000.0,6745000.0,3905000.0,Giao tiêu chuẩn
+DH-10308,2026-01-21,Hải Phòng,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,51,280000.0,14280000.0,9690000.0,4590000.0,Giao gấp buổi sáng
+DH-10309,2026-05-27,Hồ Chí Minh,Khách Lẻ Nguyễn Văn Nam,Hoa Cúc Mẫu Đơn Vàng,61,180000.0,10980000.0,6710000.0,4270000.0,
+DH-10310,2026-05-04,Hồ Chí Minh,Resort Biển Vàng,Hoa Cúc Mẫu Đơn Vàng,42,180000.0,7560000.0,4620000.0,2940000.0,Giao tiêu chuẩn
+DH-10311,2026-01-25,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hướng Dương Đà Lạt,28,90000.0,2520000.0,1540000.0,980000.0,Giao tiêu chuẩn
+DH-10312,2026-03-13,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,64,280000.0,17920000.0,12160000.0,5760000.0,Giao gấp buổi sáng
+DH-10313,2026-01-08,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,83,350000.0,29050000.0,17430000.0,11620000.0,Giao tiêu chuẩn
+DH-10314,2026-05-11,Hồ Chí Minh,Công ty CP Hoa Tươi Việt,Hoa Lan Hồ Điệp Trắng,97,450000.0,43650000.0,27160000.0,16490000.0,Giao tiêu chuẩn
+DH-10315,2026-05-02,  Hà Nội  ,Khách Lẻ Trần Văn Hưng,Hoa Hướng Dương Đà Lạt,7,90000.0,630000.0,385000.0,245000.0,
+DH-10316,2026-01-17,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,112,350000.0,39200000.0,23520000.0,15680000.0,Giao gấp buổi sáng
+DH-10317,2026-03-04,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,90,350000.0,31500000.0,18900000.0,12600000.0,Giao tiêu chuẩn
+DH-10318,2026-03-13,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Hướng Dương Đà Lạt,15,90000.0,1350000.0,825000.0,525000.0,
+DH-10319,2026-01-18,Hải Phòng,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,98,350000.0,34300000.0,20580000.0,13720000.0,Giao tiêu chuẩn
+DH-10320,2026-06-15,Hồ Chí Minh,Khách Lẻ Nguyễn Văn Nam,Hoa Cẩm Tú Cầu Xanh,36,150000.0,5400000.0,3420000.0,1980000.0,Giao gấp buổi sáng
+DH-10321,2026-04-12,Đà Nẵng,Chuỗi Cafe Xanh,Hoa Hồng Đỏ Ecuador,45,350000.0,15750000.0,9450000.0,6300000.0,
+DH-10322,2026-02-10,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Cẩm Tú Cầu Xanh,21,150000.0,3150000.0,1995000.0,1155000.0,Giao tiêu chuẩn
+DH-10323,2026-03-21,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,58,150000.0,8700000.0,5510000.0,3190000.0,Giao tiêu chuẩn
+DH-10324,2026-06-17,Hồ Chí Minh,Resort Biển Vàng,Hoa Tulip Hà Lan,36,280000.0,10080000.0,6840000.0,3240000.0,Giao gấp buổi sáng
+DH-10325,2026-02-02,Hải Phòng,Công Ty Sự Kiện Hoàng Gia,Hoa Hồng Đỏ Ecuador,109,350000.0,38150000.0,22890000.0,15260000.0,Giao tiêu chuẩn
+DH-10326,2026-06-03,Hồ Chí Minh,Chuỗi Cafe Xanh,Hoa Hồng Đỏ Ecuador,26,350000.0,9100000.0,5460000.0,3640000.0,Giao tiêu chuẩn
+DH-10327,2026-06-23,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,118,150000.0,17700000.0,11210000.0,6490000.0,
+DH-10328,2026-02-18,Cần Thơ,Tập Đoàn Khách Sạn Á Đông,Hoa Lan Hồ Điệp Trắng,108,450000.0,48600000.0,30240000.0,18360000.0,Giao gấp buổi sáng
+DH-10329,2026-01-09,Hồ Chí Minh,Khách Lẻ Trần Văn Hưng,Hoa Cúc Mẫu Đơn Vàng,10,180000.0,1800000.0,1100000.0,700000.0,Giao tiêu chuẩn
+DH-10330,2026-01-08,  Hồ Chí Minh  ,Công ty CP Hoa Tươi Việt,Hoa Hồng Đỏ Ecuador,76,350000.0,26600000.0,15960000.0,10640000.0,
+DH-10331,2026-04-21,Đà Nẵng,Công ty CP Hoa Tươi Việt,Hoa Cẩm Tú Cầu Xanh,11,150000.0,1650000.0,1045000.0,605000.0,Giao tiêu chuẩn
+DH-10332,2026-01-22,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Tulip Hà Lan,30,280000.0,8400000.0,5700000.0,2700000.0,Giao gấp buổi sáng
+DH-10333,2026-01-14,Hồ Chí Minh,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,79,350000.0,27650000.0,16590000.0,11060000.0,
+DH-10334,2026-05-21,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Tulip Hà Lan,29,280000.0,8120000.0,5510000.0,2610000.0,Giao tiêu chuẩn
+DH-10335,2026-04-10,Cần Thơ,Resort Biển Vàng,Hoa Lan Hồ Điệp Trắng,49,450000.0,22050000.0,13720000.0,8330000.0,Giao tiêu chuẩn
+DH-10336,2026-02-20,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Hướng Dương Đà Lạt,48,90000.0,4320000.0,2640000.0,1680000.0,Giao gấp buổi sáng
+DH-10337,2026-02-06,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Lan Hồ Điệp Trắng,100,450000.0,45000000.0,28000000.0,17000000.0,Giao tiêu chuẩn
+DH-10338,2026-02-04,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,65,180000.0,11700000.0,7150000.0,4550000.0,Giao tiêu chuẩn
+DH-10339,2026-02-18,Hà Nội,Chuỗi Cafe Xanh,Hoa Hồng Đỏ Ecuador,98,350000.0,34300000.0,20580000.0,13720000.0,
+DH-10340,2026-05-28,Hải Phòng,Công ty CP Hoa Tươi Việt,Hoa Lan Hồ Điệp Trắng,41,450000.0,18450000.0,11480000.0,6970000.0,Giao gấp buổi sáng
+DH-10341,2026-06-01,Hà Nội,Công ty CP Hoa Tươi Việt,Hoa Tulip Hà Lan,54,280000.0,15120000.0,10260000.0,4860000.0,Giao tiêu chuẩn
+DH-10342,2026-04-27,Cần Thơ,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,102,350000.0,35700000.0,21420000.0,14280000.0,
+DH-10343,2026-06-13,Hồ Chí Minh,Công Ty Sự Kiện Hoàng Gia,Hoa Lan Hồ Điệp Trắng,10,450000.0,4500000.0,2800000.0,1700000.0,Giao tiêu chuẩn
+DH-10344,2026-05-05,Đà Nẵng,Công Ty Sự Kiện Hoàng Gia,Hoa Cúc Mẫu Đơn Vàng,16,180000.0,2880000.0,1760000.0,1120000.0,Giao gấp buổi sáng
+DH-10345,2026-05-23,  Hồ Chí Minh  ,Nhà Hàng Sen Tây Hồ,Hoa Lan Hồ Điệp Trắng,101,450000.0,45450000.0,28280000.0,17170000.0,
+DH-10346,2026-03-28,Hà Nội,Khách Lẻ Trần Văn Hưng,Hoa Tulip Hà Lan,46,280000.0,12880000.0,8740000.0,4140000.0,Giao tiêu chuẩn
+DH-10347,2026-02-06,Hà Nội,Công Ty Sự Kiện Hoàng Gia,Hoa Cẩm Tú Cầu Xanh,73,150000.0,10950000.0,6935000.0,4015000.0,Giao tiêu chuẩn
+DH-10348,2026-03-01,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Hồng Đỏ Ecuador,115,350000.0,40250000.0,24150000.0,16100000.0,Giao gấp buổi sáng
+DH-10349,2026-03-11,Hồ Chí Minh,Nhà Hàng Sen Tây Hồ,Hoa Hồng Đỏ Ecuador,21,350000.0,7350000.0,4410000.0,2940000.0,Giao tiêu chuẩn
+DH-10350,2026-06-12,Hồ Chí Minh,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,105,350000.0,36750000.0,22050000.0,14700000.0,Giao tiêu chuẩn
+DH-10006,2026-06-19,Hà Nội,Nhà Hàng Sen Tây Hồ,Hoa Cúc Mẫu Đơn Vàng,96,180000.0,17280000.0,10560000.0,6720000.0,
+DH-10013,2026-01-04,Hà Nội,Tập Đoàn Khách Sạn Á Đông,Hoa Cẩm Tú Cầu Xanh,58,150000.0,8700000.0,5510000.0,3190000.0,Giao tiêu chuẩn
+DH-10021,2026-02-10,Đà Nẵng,Tập Đoàn Khách Sạn Á Đông,Hoa Cúc Mẫu Đơn Vàng,32,180000.0,5760000.0,3520000.0,2240000.0,
+DH-10036,2026-03-03,Hồ Chí Minh,Resort Biển Vàng,Hoa Hồng Đỏ Ecuador,117,350000.0,40950000.0,24570000.0,16380000.0,Giao gấp buổi sáng

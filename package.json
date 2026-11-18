@@ -1,0 +1,17 @@
+{
+  "name": "flower-happy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FLOWER HAPPY - Nền tảng phân tích dữ liệu kinh doanh sản xuất thực tế",
+  "scripts": {
+    "setup": "node scripts/setup.cjs",
+    "dev:backend": "powershell -ExecutionPolicy Bypass -Command \".\\venv\\Scripts\\python.exe -m uvicorn backend.main:app --host 127.0.0.1 --port 8000 --reload\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"green,blue\" \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "test": "powershell -ExecutionPolicy Bypass -Command \"$env:PYTHONPATH='.'; .\\venv\\Scripts\\python.exe -m pytest backend/tests\"",
+    "build": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
